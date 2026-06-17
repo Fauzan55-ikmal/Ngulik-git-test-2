@@ -8,5 +8,10 @@
 <body>
     <h1>hello world!</h1>
     <p>This is a simple paragraph.</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
 </body>
 </html>
